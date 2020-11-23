@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListOfStudents xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pupils>
+    <DataGridContent>
+      <Name>A</Name>
+      <Birthday>qw</Birthday>
+      <Gender>F</Gender>
+      <IsSelected>true</IsSelected>
+    </DataGridContent>
+    <DataGridContent>
+      <Name>B</Name>
+      <Birthday>er</Birthday>
+      <Gender>M</Gender>
+      <IsSelected>true</IsSelected>
+    </DataGridContent>
+    <DataGridContent>
+      <Name>C</Name>
+      <Birthday>rt</Birthday>
+      <Gender>F</Gender>
+      <IsSelected>true</IsSelected>
+    </DataGridContent>
+  </Pupils>
+</ListOfStudents>

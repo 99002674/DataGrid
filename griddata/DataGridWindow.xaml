@@ -1,0 +1,23 @@
+﻿<Window x:Class="griddata.DataGridWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:griddata"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="10">
+        <DataGrid Name="Student" AutoGenerateColumns="False" Width="700" Margin="37,12,35,233" >
+            <DataGrid.Columns>
+
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}" />
+                <DataGridTextColumn Header="Birthday" Binding="{Binding Birthday}"/>
+                <DataGridCheckBoxColumn Header="Select" Binding="{Binding IsSelected}"/>
+                <DataGridComboBoxColumn Header="Gender" x:Name="gender" SelectedValueBinding="{Binding Gender, Mode=TwoWay}"
+                                    DisplayMemberPath="{Binding Gender}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="button" Height="25" Width="100" Content="View Data" Click="button_Click" Margin="334,196,338,178"></Button>
+        <ListBox Margin="37,241,35,60" x:Name="listbox"/>
+    </Grid>
+</Window>

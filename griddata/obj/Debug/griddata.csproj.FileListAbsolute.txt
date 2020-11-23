@@ -1,0 +1,15 @@
+C:\Users\chandhu\source\repos\griddata\griddata\obj\Debug\griddata.csprojAssemblyReference.cache
+C:\Users\chandhu\source\repos\griddata\griddata\obj\Debug\App.g.cs
+C:\Users\chandhu\source\repos\griddata\griddata\obj\Debug\griddata_MarkupCompile.cache
+C:\Users\chandhu\source\repos\griddata\griddata\bin\Debug\griddata.exe.config
+C:\Users\chandhu\source\repos\griddata\griddata\bin\Debug\griddata.exe
+C:\Users\chandhu\source\repos\griddata\griddata\bin\Debug\griddata.pdb
+C:\Users\chandhu\source\repos\griddata\griddata\obj\Debug\griddata_MarkupCompile.lref
+C:\Users\chandhu\source\repos\griddata\griddata\obj\Debug\griddata.g.resources
+C:\Users\chandhu\source\repos\griddata\griddata\obj\Debug\griddata.Properties.Resources.resources
+C:\Users\chandhu\source\repos\griddata\griddata\obj\Debug\griddata.csproj.GenerateResource.cache
+C:\Users\chandhu\source\repos\griddata\griddata\obj\Debug\griddata.csproj.CoreCompileInputs.cache
+C:\Users\chandhu\source\repos\griddata\griddata\obj\Debug\griddata.exe
+C:\Users\chandhu\source\repos\griddata\griddata\obj\Debug\griddata.pdb
+C:\Users\chandhu\source\repos\griddata\griddata\obj\Debug\DataGridWindow.g.cs
+C:\Users\chandhu\source\repos\griddata\griddata\obj\Debug\DataGridWindow.baml
